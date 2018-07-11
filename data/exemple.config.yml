@@ -1,0 +1,7 @@
+---
+:token: <BOT-TOKEN>
+:client_id: <BOT-CLIENT-ID>
+:prefix: "!"
+:welcome_channel: <MAIN-CHANNEL-ID>
+:ideas_channel: <IDEAS-CHANNEL-ID>
+:polls_channel: <POLLS-CHANNEL-ID>

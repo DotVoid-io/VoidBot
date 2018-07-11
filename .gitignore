@@ -1,0 +1,24 @@
+/.bundle/
+/pkg/
+/spec/reports/
+/tmp/
+/.idea/
+.swp
+
+# Config
+data/config.yml
+
+
+# Logs
+logs/*.log
+
+
+# Data files
+data/emojis/*
+!data/emojis/.gitkeep
+
+data/avatars/*
+!data/avatars/.gitkeep
+
+data/config.yml
+data/roles.json
